@@ -44,7 +44,7 @@ Week 1, Project Module 1 (WK1-PM1). A cybersecurity testing lab built with Virtu
 ![Kali network adapter](screenshots/kali-network-adapter.png)
 
 ### 5. Clipboard and drag/drop
-![Clipboard and drag/drop](screenshots/dipboard_dragdrop.png)
+![Clipboard and drag/drop](screenshots/clipboard_dragdrop.png)
 
 ### 6. Shared folder
 ![Shared folder](screenshots/shared_folder.png)
